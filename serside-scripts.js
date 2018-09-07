@@ -1,6 +1,6 @@
 // CHAT BODY
 // $("#containerchat").load("https://emarquez19.github.io/chat.html #chat-box");
-$("#containerchat").load("https://emarquez19.github.io/chat.html");
+$("#containerchat").load("https://emarquez19.github.io/chat.html #main-bodypage");
 // $("head").appendChild('<link rel="stylesheet" href="https://emarquez19.github.io/py-chat.css">');
 
 // Estilos
