@@ -10,6 +10,5 @@ $("head link[rel='stylesheet']").last().after('<link rel="stylesheet" href="http
 $('#scripts-holder').append('<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.1/jquery-migrate.min.js"></script>');
 $('#scripts-holder').append('<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/popper.min.js"></script>');
 $('#scripts-holder').append('<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>');
-$('#scripts-holder').append('<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>');
 $('#scripts-holder').append('<script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js"></script>');
 $('#scripts-holder').append('<script src="https://emarquez19.github.io/ion.rangeSlider/js/ion.rangeSlider.min.js"></script>');
