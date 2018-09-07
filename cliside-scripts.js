@@ -1,0 +1,1 @@
+console.log("Iniciando Js en Index-Int.html");
